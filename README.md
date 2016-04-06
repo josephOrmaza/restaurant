@@ -1,17 +1,11 @@
-# Thunder
-Sistema de Administracion de un Restaurant, Cafeteria, Bar, Pizzeria, etc
+# Sistema Restaurant
+Sistema de Administracion de un Restaurant.
 
 
-### Version 1.1
+### Version 1.0
 
-- Productos
-- Ventas
-- Ingredientes
-- Inventario
-- Meseros
-- Mesas
-- Historiales
-- Reportes
+- Loggin
 - Usuarios
+- Clientes
 
 
